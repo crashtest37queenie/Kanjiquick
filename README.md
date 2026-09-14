@@ -203,3 +203,6 @@ KanjiQuick is available as a complete free version, providing all features and u
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Unlock your potential in learning Japanese today with KanjiQuick! Download now and start your journey!
+
+---
+**Last updated:** 2026-09-14 19:43:07 UTC

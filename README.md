@@ -205,4 +205,4 @@ KanjiQuick is available as a complete free version, providing all features and u
 Unlock your potential in learning Japanese today with KanjiQuick! Download now and start your journey!
 
 ---
-**Last updated:** 2026-10-29 07:59:02 UTC
+**Last updated:** 2026-10-29 15:08:35 UTC
